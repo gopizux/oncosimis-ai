@@ -1,0 +1,16 @@
+oncosimis-ai-assistant/
+├── backend/
+│   ├── app.py
+│   ├── document_loader.py
+│   ├── requirements.txt
+│   └── .env
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   ├── script.js
+│   └── assets/
+│       ├── logo.png         
+│       └── favicon.ico        
+└── SOPs-feed/
+    └── [ SOP .docx files]
+
